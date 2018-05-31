@@ -1,0 +1,27 @@
+{
+  "name": "2focus",
+  "version": "1.0.0",
+  "description": "Background Database for to-do-list app 2Focus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunleo813/2focus.git"
+  },
+  "keywords": [
+    "to-do-list",
+    "task"
+  ],
+  "author": "Louis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunleo813/2focus/issues"
+  },
+  "homepage": "https://github.com/sunleo813/2focus#readme",
+  "dependencies": {
+    "mongodb": "^3.1.0-beta4",
+    "npm": "^6.1.0"
+  }
+}
